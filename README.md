@@ -1,4 +1,6 @@
-Travel Paradise Webpage
+TRAVEL PARADISE WEBPAGE
+
+
 This is a simple webpage that I created during my Web Engineering lab using HTML and CSS.
 First, I added a background image and applied different CSS properties to it:
 background-repeat: no-repeat; so the image does not repeat if the image is smaller than the screen size.
