@@ -1,5 +1,28 @@
-# Travel-paradise-webpage
-I have created simple webpage during my lab class of web engineering using html and CSS technologies 
-At first i add bacgroung image than i applying properties on it that are..background repeat: no repeat so the image wont rpeat itself if img is small and screen is large,
-thean i add bacground position center ,then background attachment fixed mean when we scroll webpage backgeound img will be fixed  it wont change after putting background image on webpage I  create a fixed navigation bar (fixed navigation bar means when the user scroll the page navigation bar remain visible it stick  at same position.
+Travel Paradise Webpage
+This is a simple webpage that I created during my Web Engineering lab using HTML and CSS.
+First, I added a background image and applied different CSS properties to it:
+background-repeat: no-repeat; so the image does not repeat if the image is smaller than the screen size.
+background-position: center; to keep the image centered.
+background-attachment: fixed; which keeps the background image fixed when the user scrolls the webpage.
 
+After adding the background image, I created a fixed navigation bar. A fixed navigation bar remains visible at the same position even when the user scrolls the page.
+The navigation bar contains the following links:
+
+Home
+Destination
+Package
+Contact
+Then, I created a centered content card that includes:
+
+A travel image
+A heading
+A short description using the <p> tag
+A "Book Now" button
+
+I also applied an opacity effect to the card so that the background image is slightly visible through it.
+
+Finally, I added a 50% OFF badge at the top-right corner of the card to make the design more attractive.
+
+Technologies Used
+HTML5
+CSS3
